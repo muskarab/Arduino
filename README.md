@@ -4,3 +4,4 @@ Arduino Sensor Modules
  * Mustafa Kamal Rabbani
  * IG : @muskarab
  * Github : MustafaKamalRabbani
+ * email : mustafa.kamal.mk858@gmail.com
